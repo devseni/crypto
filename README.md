@@ -21,4 +21,5 @@ A Web app crypto to show all cryptocurrencies details with chart in React
  - API
  - CSS Module
  - Asynchronous Requests with Axios
+ - Pagination
 
